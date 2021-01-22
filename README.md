@@ -35,6 +35,8 @@ npm i
 npm i got
 
 node index.js
+
+
 espero ter ajudado!!
 
 
