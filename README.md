@@ -12,7 +12,7 @@ git clone https://github.com/Leona31/JUDITEBOT
 
 Is
 
-cd (JUDITEBOT)
+cd JUDITEBOT
 
 ls
 
